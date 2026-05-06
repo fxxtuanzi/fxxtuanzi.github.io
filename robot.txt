@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fxxtuanzi.github.io/sitemap.xml
